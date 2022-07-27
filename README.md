@@ -1,0 +1,2 @@
+This repository shows using Pandas for manipulating data.
+We use a dataset from "https://data.go.th/dataset/8a956917-436d-4afd-a2d4-59e4dd8e906e/resource/894664f5-447a-46ec-9fe2-1b6ae8f18be5/download/confirmed-cases-since-120465.csv" .
